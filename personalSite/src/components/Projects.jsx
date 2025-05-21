@@ -1,4 +1,5 @@
 import LSMProj from "./LSMProj";
+import "../styles/Projects.css";
 
 export default function Projects() {
 	return (
