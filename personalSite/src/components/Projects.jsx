@@ -1,7 +1,7 @@
 import LSMProj from "./LSMProj";
-import "../styles/Projects.css";
 import GameListProj from "./GameListProj";
 import PicToASCIIProj from "./PicToASCIIProj";
+import "../styles/Projects.css";
 
 export default function Projects() {
 	return (
